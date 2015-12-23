@@ -1,0 +1,11 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43525" Position="7" String="Transportation Type" Type="1" UniqueID="Z_mnu_TR002" Image="">
+							</Menu>
+			
+			
+			
+		</action>
+	</Menus>
+</Application>
